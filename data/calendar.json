@@ -1,0 +1,36 @@
+{
+    "owner_id": 1,
+    "open_slots": [
+        {
+            "date": "2025-06-17",
+            "day": "Tuesday",
+            "times": ["9:00am", "1:00pm", "5:00pm"],
+            "available": true
+        },
+        {
+            "date": "2025-06-18",
+            "day": "Wednesday",
+            "times": ["9:00am", "1:00pm", "5:00pm"],
+            "available": true
+        },
+        {
+            "date": "2025-06-19",
+            "day": "Thursday",
+            "times": ["9:00am", "5:00pm"],
+            "available": true
+        },
+        {
+            "date": "2025-06-20",
+            "day": "Friday",
+            "times": ["12:30pm"],
+            "available": true
+        },
+        {
+            "date": "2025-06-21",
+            "day": "Saturday",
+            "times": [],
+            "available": false,
+            "note_to_bizzy": "Reserved for wedding booking only. Confirm with Melissa."
+        }
+    ]
+}
