@@ -2,7 +2,7 @@ from app.chat_engine import ask_bizzy
 from app.memory.thread_state import add_message, get_thread, reset_thread
 import time
 
-def simulate_convo(phone_number="323-450-2012"):
+def simulate_convo(phone_number):
     print("---- New Simulated SMS Thread ----")
 
     while True:
@@ -39,7 +39,7 @@ def simulate_convo(phone_number="323-450-2012"):
 
 
 if __name__ == "__main__":
-    simulate_convo()
+    simulate_convo("6264665678")
 
     
     '''system_prompt = "You are bizzy, a friendly AI assistant for a hairstylist. You are provided the authority to help clients select an appointment slot!"
