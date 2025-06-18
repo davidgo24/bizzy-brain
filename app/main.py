@@ -15,20 +15,31 @@ def simulate_convo(phone_number):
 
         add_message(phone_number, "user", user_input)
 
-        # constructing a full thread prompt
+        # grab the updated thread * which includes the inital message sent by the client
 
         messages = get_thread(phone_number)
+    
+        
 
+        if not messages:
+            print("⚠️ No messages in thread - skipping response.")
+            continue
+
+    
         thread_prompt = "\n".join(
             [f"{msg['role'].capitalize()}: {msg['content']}" for msg in messages]
         )
-        
+
+        if not thread_prompt.strip():
+            print("⚠️ No messages yet in thread. Skipping GPT call.")
+            continue
+
         system_prompt = "You are bizzy, a friendly AI assistant for a hairstylist. You are provided the authority to help clients select an appointment slot!"
 
-
+        #first prompt sent to bizzy
         response = ask_bizzy(system_prompt, thread_prompt)
 
-        #add bizzy response to memory
+        #save bizzy's response to the memory bank
 
         add_message(phone_number, "assistant", response)
         
@@ -39,7 +50,7 @@ def simulate_convo(phone_number):
 
 
 if __name__ == "__main__":
-    simulate_convo("6264665678")
+    simulate_convo("3234594057")
 
     
     '''system_prompt = "You are bizzy, a friendly AI assistant for a hairstylist. You are provided the authority to help clients select an appointment slot!"
