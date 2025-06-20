@@ -1,6 +1,9 @@
 from app.chat_engine import ask_bizzy
 from app.memory.thread_state import add_message, get_thread, reset_thread
 import time
+from app.services.relay_analysis import analyze_for_relay
+
+
 
 def simulate_convo(phone_number):
     print("---- New Simulated SMS Thread ----")
@@ -18,8 +21,16 @@ def simulate_convo(phone_number):
         # grab the updated thread * which includes the inital message sent by the client
 
         messages = get_thread(phone_number)
-    
+
         
+        relay_result = analyze_for_relay(user_input, messages)
+        print("🔎 Relay Analysis:", relay_result)
+
+        if relay_result["sensitivity"] >= 8:
+            print(f"Bizzy: {relay_result['bizzy_response']}\n")
+            add_message(phone_number, "assistant", relay_result["bizzy_response"])
+            continue #telling bizzy to skip the call for now and wait for Melissa's guidance
+
 
         if not messages:
             print("⚠️ No messages in thread - skipping response.")
