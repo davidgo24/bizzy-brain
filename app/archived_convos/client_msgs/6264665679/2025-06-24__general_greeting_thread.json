@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello!",
+      "timestamp": "2025-06-01T10:00:00"
+    }
+  ],
+  "start_time": "2025-06-01T10:00:00",
+  "archived_at": "2025-06-24T20:03:21.648232",
+  "thread_title": "general_greeting_thread"
+}
