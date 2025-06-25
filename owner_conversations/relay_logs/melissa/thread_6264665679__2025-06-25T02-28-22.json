@@ -1,0 +1,47 @@
+{
+  "owner_phone": "melissa",
+  "client_phone": "6264665679",
+  "created_at": "2025-06-25T02-28-22",
+  "updated_at": "2025-06-25T02:28:44.706859",
+  "status": "responded",
+  "sensitivity": 7,
+  "reason": "The client is expressing urgency due to a hair dye issue, but it's presented in a lighthearted manner.",
+  "owner_summary": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-06-25T02:27:54.233257"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I assist you today?",
+      "timestamp": "2025-06-25T02:27:56.703077"
+    },
+    {
+      "role": "user",
+      "content": "yes, looking t schedule an appt",
+      "timestamp": "2025-06-25T02:28:03.091560"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course! What service are you interested in, and do you have any preferred dates or times?",
+      "timestamp": "2025-06-25T02:28:05.605040"
+    },
+    {
+      "role": "user",
+      "content": "its an emergency, i used box hair dye LOL",
+      "timestamp": "2025-06-25T02:28:21.218754"
+    },
+    {
+      "role": "assistant",
+      "content": "This sounds important \u2014 I'm going to loop Melissa in to make sure we get this just right. Sit tight and we'll follow up shortly!",
+      "timestamp": "2025-06-25T02:28:22.812184"
+    },
+    {
+      "role": "owner",
+      "content": "I CAN HELP. TO THE RESCUE! WHAT DAY AND TIME WORKS BEST FOR U?",
+      "timestamp": "2025-06-25T02:28:44.706831"
+    }
+  ]
+}

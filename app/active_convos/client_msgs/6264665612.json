@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello!",
+      "timestamp": "2025-06-24 08:05 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "timestamp": "2025-06-24 08:05 PM"
+    },
+    {
+      "role": "user",
+      "content": "sweet u are working!",
+      "timestamp": "2025-06-24 08:05 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely, I'm here to help! What can I do for you today?",
+      "timestamp": "2025-06-24 08:05 PM"
+    }
+  ],
+  "start_time": "2025-06-24 08:05 PM"
+}

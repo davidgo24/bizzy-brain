@@ -1,0 +1,75 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello!",
+      "timestamp": "2025-06-25T02:40:41.986233"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I assist you today?",
+      "timestamp": "2025-06-25T02:40:45.604636"
+    },
+    {
+      "role": "user",
+      "content": "i want to book a consultation",
+      "timestamp": "2025-06-25T02:40:53.860731"
+    },
+    {
+      "role": "user",
+      "content": "i used box dye LOL HELP",
+      "timestamp": "2025-06-25T02:41:47.708325"
+    },
+    {
+      "role": "owner",
+      "content": "oh no honey! thats a big no no lol. dont worry i am coming to the rescure. bizzy please relay that sentence and then ask if she prefers mornings?",
+      "timestamp": "2025-06-25T02:42:38.862153"
+    },
+    {
+      "role": "assistant",
+      "content": "Melissa says: \"Oh no honey! That's a big no-no lol. Don't worry, I am coming to the rescue.\" Do you prefer mornings for your consultation?",
+      "timestamp": "2025-06-25T02:42:40.186634"
+    },
+    {
+      "role": "user",
+      "content": "yes!",
+      "timestamp": "2025-06-25T02:42:47.807008"
+    },
+    {
+      "role": "owner",
+      "content": "ok great, what day works better for her??? picka  calendar day and ill confirm after.",
+      "timestamp": "2025-06-25T02:43:06.808004"
+    },
+    {
+      "role": "assistant",
+      "content": "Melissa asks: What day works better for you? Pick a calendar day, and she'll confirm it.",
+      "timestamp": "2025-06-25T02:43:07.839522"
+    },
+    {
+      "role": "user",
+      "content": "june 27th",
+      "timestamp": "2025-06-25T02:43:16.392164"
+    },
+    {
+      "role": "owner",
+      "content": "great, taht works for me. let her know ill put her down for 10am if she has anything come up to just text u for any q's or reschudling",
+      "timestamp": "2025-06-25T02:43:50.991563"
+    },
+    {
+      "role": "assistant",
+      "content": "Melissa says: Great, that works for her. She'll put you down for 10 AM on June 27th. If anything comes up or you have questions, feel free to text for rescheduling.",
+      "timestamp": "2025-06-25T02:43:52.689005"
+    },
+    {
+      "role": "user",
+      "content": "sweet thanks bizzy!!! u da goat",
+      "timestamp": "2025-06-25T02:44:04.263730"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome! \ud83d\udc10 If you need anything else, just let me know. Have a great day!",
+      "timestamp": "2025-06-25T02:44:07.924455"
+    }
+  ],
+  "start_time": "2025-06-25T02:40:41.986198"
+}

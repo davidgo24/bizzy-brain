@@ -1,0 +1,37 @@
+{
+  "owner_phone": "melissa",
+  "client_phone": "6264665677",
+  "created_at": "2025-06-25T03-02-44",
+  "updated_at": "2025-06-25T03:03:12.833973",
+  "status": "responded",
+  "sensitivity": 8,
+  "reason": "The client is expressing urgency and distress over a hair mishap, which may require professional intervention to correct.",
+  "owner_summary": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello!",
+      "timestamp": "2025-06-24 08:02 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I assist you today?",
+      "timestamp": "2025-06-24 08:02 PM"
+    },
+    {
+      "role": "user",
+      "content": "its an emergency!!! i used box dye and messed up my hair lol \ud83d\ude2d",
+      "timestamp": "2025-06-24 08:02 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "This sounds important \u2014 I'm going to loop Melissa in to make sure we get this just right. Sit tight and we'll follow up shortly!",
+      "timestamp": "2025-06-24 08:02 PM"
+    },
+    {
+      "role": "owner",
+      "content": "sorry we are all booked. let her know shed have to wait for 2 months",
+      "timestamp": "2025-06-25T03:03:12.833884"
+    }
+  ]
+}

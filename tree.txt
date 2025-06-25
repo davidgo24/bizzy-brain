@@ -1,0 +1,71 @@
+.
+├── active_convos
+├── app
+│   ├── __pycache__
+│   │   ├── chat_engine.cpython-313.pyc
+│   │   ├── main.cpython-313.pyc
+│   │   ├── manual_archiving.cpython-313.pyc
+│   │   └── manual_convo_resets.cpython-313.pyc
+│   ├── active_convos
+│   │   └── client_msgs
+│   ├── archived_convos
+│   │   └── client_msgs
+│   ├── background
+│   │   ├── __pycache__
+│   │   └── scheduler.py
+│   ├── chat_engine.py
+│   ├── main.py
+│   ├── manual_convo_resets.py
+│   ├── memory
+│   │   ├── __pycache__
+│   │   ├── client_memory.py
+│   │   ├── old_thread_do_not_use.py
+│   │   ├── owner_conversations
+│   │   ├── owner_memory.py
+│   │   ├── services
+│   │   └── thread_naming.py
+│   ├── services
+│   │   ├── __pycache__
+│   │   ├── owner_loop.py
+│   │   ├── package_relay_analysis.py
+│   │   ├── relay_analysis.py
+│   │   └── ticket_id_generator.py
+│   └── utils
+│       ├── __pycache__
+│       ├── thread_loader.py
+│       └── time_utils.py
+├── data
+│   └── calendar.json
+├── owner_conversations
+│   └── relay_logs
+│       └── melissa
+├── README.md
+├── simulate.py
+├── tools
+│   └── replay_thread.py
+├── tree.txt
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── Activate.ps1
+    │   ├── distro
+    │   ├── dotenv
+    │   ├── fastapi
+    │   ├── httpx
+    │   ├── openai
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip3.13
+    │   ├── python -> python3.13
+    │   ├── python3 -> python3.13
+    │   ├── python3.13 -> /opt/homebrew/opt/python@3.13/bin/python3.13
+    │   └── tqdm
+    ├── include
+    │   └── python3.13
+    ├── lib
+    │   └── python3.13
+    └── pyvenv.cfg
+
+29 directories, 40 files

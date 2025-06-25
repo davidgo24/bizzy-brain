@@ -1,0 +1,85 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-06-25T02:48:05.073980"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I assist you today with your hair needs?",
+      "timestamp": "2025-06-25T02:48:07.974839"
+    },
+    {
+      "role": "user",
+      "content": "i need to book an appt",
+      "timestamp": "2025-06-25T02:48:12.660640"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course! Could you please let me know your preferred date and time, as well as the service you're interested in?",
+      "timestamp": "2025-06-25T02:48:15.191653"
+    },
+    {
+      "role": "user",
+      "content": "ballayage",
+      "timestamp": "2025-06-25T02:48:21.177765"
+    },
+    {
+      "role": "assistant",
+      "content": "Great choice! Could you let me know your preferred date and time for the balayage appointment? Also, do you have a specific stylist you\u2019d like to book with, or are you open to any of our talented team members?",
+      "timestamp": "2025-06-25T02:48:24.420957"
+    },
+    {
+      "role": "user",
+      "content": "can u help with some inspoooo",
+      "timestamp": "2025-06-25T02:48:31.134618"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely! Balayage is a beautiful choice. Are you looking for something more natural and sun-kissed, or bold and dramatic? I can suggest some popular options based on your preference.",
+      "timestamp": "2025-06-25T02:48:35.008513"
+    },
+    {
+      "role": "user",
+      "content": "sun kissed baby bizzy",
+      "timestamp": "2025-06-25T02:48:42.741710"
+    },
+    {
+      "role": "assistant",
+      "content": "Lovely choice! For a sun-kissed balayage, you might consider warm caramel or honey tones to add a natural glow. Soft, subtle highlights around the face can also enhance the effect. If you'd like, I can send you some inspiration images or help you book a consultation with Melissa to discuss your vision further!",
+      "timestamp": "2025-06-25T02:48:46.060388"
+    },
+    {
+      "role": "user",
+      "content": "yeah send some images!",
+      "timestamp": "2025-06-25T02:49:06.089286"
+    },
+    {
+      "role": "assistant",
+      "content": "I\u2019ll gather some inspirational images of sun-kissed balayage for you. Could you please provide your email address or preferred method of receiving them?",
+      "timestamp": "2025-06-25T02:49:09.106035"
+    },
+    {
+      "role": "user",
+      "content": "davidjrgodinez@gmail.com",
+      "timestamp": "2025-06-25T02:49:21.997485"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! I\u2019ll send some sun-kissed balayage inspiration to davidjrgodinez@gmail.com shortly. If you have any other questions or need further assistance, just let me know!",
+      "timestamp": "2025-06-25T02:49:24.462214"
+    },
+    {
+      "role": "user",
+      "content": "sweet thx!",
+      "timestamp": "2025-06-25T02:49:44.559389"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome! Keep an eye on your inbox for those images. If you need anything else or want to book that appointment, just let me know. Enjoy the inspiration!",
+      "timestamp": "2025-06-25T02:49:47.306080"
+    }
+  ],
+  "start_time": "2025-06-25T02:48:05.073957"
+}

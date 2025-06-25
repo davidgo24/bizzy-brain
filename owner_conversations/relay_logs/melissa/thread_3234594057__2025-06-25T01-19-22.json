@@ -1,0 +1,47 @@
+{
+  "owner_phone": "melissa",
+  "client_phone": "3234594057",
+  "created_at": "2025-06-25T01-19-22",
+  "updated_at": "2025-06-25T01:20:11.137211",
+  "status": "responded",
+  "sensitivity": 7,
+  "reason": "The client is urgently requesting a wedding appointment, which is time-sensitive but not necessarily sensitive in terms of requiring owner intervention.",
+  "owner_summary": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-06-24T20:15:03.665905"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you with your hairstyling needs today?",
+      "timestamp": "2025-06-24T20:15:07.798922"
+    },
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-06-25T01:18:20.486517"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi again! Looking to book an appointment or need some hairstyle advice?",
+      "timestamp": "2025-06-25T01:18:26.348713"
+    },
+    {
+      "role": "user",
+      "content": "yes! i actually need to book an appointment for my wedding ASAPPPP",
+      "timestamp": "2025-06-25T01:19:21.523733"
+    },
+    {
+      "role": "assistant",
+      "content": "This sounds important \u2014 I'm going to loop Melissa in to make sure we get this just right. Sit tight and we'll follow up shortly!",
+      "timestamp": "2025-06-25T01:19:22.906813"
+    },
+    {
+      "role": "owner",
+      "content": "Hi my love, id be happy to get your date secured ASAP. give me the date, time, and location so i can get you locked in.",
+      "timestamp": "2025-06-25T01:20:11.137184"
+    }
+  ]
+}
